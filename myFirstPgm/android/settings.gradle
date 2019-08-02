@@ -1,0 +1,3 @@
+rootProject.name = 'myFirstPgm'
+
+include ':app'
