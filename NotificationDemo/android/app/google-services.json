@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "132190307817",
+    "firebase_url": "https://notificationdemo-a4111.firebaseio.com",
+    "project_id": "notificationdemo-a4111",
+    "storage_bucket": "notificationdemo-a4111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132190307817:android:67132aff2277adb6",
+        "android_client_info": {
+          "package_name": "com.notificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132190307817-c91820irks8bp0i7g5a4a0o024emmpgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notificationdemo",
+            "certificate_hash": "014bc958379435545125b1ef71c5981011bb225a"
+          }
+        },
+        {
+          "client_id": "132190307817-196mne33b548iukfqavh3a9gt2o8hlh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfaxCjgqW35WJBtWfp5tdjazCTChbdU5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132190307817-196mne33b548iukfqavh3a9gt2o8hlh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
